@@ -1,0 +1,36 @@
+{
+    "manifest_version": 2,
+    "name": "Ocultar Percentil",
+    "version": "1.1",
+    "description": "Oculta tu percentil. Únicamente sirve para la academia CTO.",
+    "icons": { 
+      "32": "images/icon32.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"},
+    "author": "vamp-r",
+    "background": {
+      "scripts": ["background.js"]
+    },   
+    "permissions": [
+      "activeTab",
+      "storage",
+      "*://campus.grupocto.com/*",
+      "*://campus-v2.grupocto.com/*"
+
+    ],
+    "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Ocultar Percentil CTO"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+          "*://campus.grupocto.com/*", "https://campus-v2.grupocto.com/*"],
+        "js": ["jquery-3.6.0.js", "content.js"]
+      }
+    ]
+
+    
+  }
+  
