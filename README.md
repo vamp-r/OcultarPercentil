@@ -10,7 +10,7 @@ Sirve para ocultar el percentil de la academia CTO MIR.
 ### Chromium y Opera
 Se puede cargar en cualquier navegador basado en Chromium y en Opera.
 ### Firefox
-Para usarlo en Firefox solo hace falta cambiar el manifest.json por el manifest_firefox.json renombrándolo igual que el primero.
+Para usarlo en Firefox solo hace falta cambiar el manifest.json por el manifest_firefox.json, renombrándolo igual que el primero.
 
 Funciona en Firefox Android.
 ### Safari
