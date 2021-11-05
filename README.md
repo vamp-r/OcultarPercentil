@@ -1,12 +1,12 @@
 # OcultarPercentil
 Sirve para ocultar el percentil de la academia CTO MIR. 
 
-## Descargar las versiones estables
+## Descargar las versiones estables (recomendado)
 - Edge: 	https://microsoftedge.microsoft.com/addons/detail/oogigbfcdfooaibomghljcpeiaphdedl
 - Chrome:
 - Firefox:
 
-## Uso
+## Uso de la versión fuera de las tiendas (no recomendado)
 ### Chromium y Opera
 Se puede cargar en cualquier navegador basado en Chromium y en Opera.
 ### Firefox
