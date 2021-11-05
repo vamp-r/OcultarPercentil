@@ -45,7 +45,7 @@ chrome.runtime.onMessage.addListener(
                         hidePer()
                     } else {
                         console.log('No encontrado el parte de simulacros')
-                        setTimeout(espera, 30); // Espera 300ms y ejecuta de nuevo la función
+                        setTimeout(espera, 300); // Espera 300ms y ejecuta de nuevo la función
                     }
                 }
                 espera();
