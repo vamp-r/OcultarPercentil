@@ -22,7 +22,6 @@
     },
 
     "permissions": [
-      "activeTab",
       "storage",
       "*://campus.grupocto.com/*",
       "*://campus-v2.grupocto.com/*"
