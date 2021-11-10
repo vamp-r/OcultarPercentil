@@ -2,7 +2,7 @@
     "manifest_version": 2,
     
     "name": "Ocultar Percentil",
-    "version": "1.2",
+    "version": "1.2.2",
     "description": "Oculta tu percentil. Únicamente sirve para la academia CTO.",
     "icons": { 
       "32": "images/icon32.png",
@@ -30,7 +30,7 @@
       {
         "matches": [
           "*://campus.grupocto.com/*", "https://campus-v2.grupocto.com/*"],
-        "js": ["jquery-3.6.0.js", "content.js"]
+        "js": ["content.js"]
       }
     ]
 
