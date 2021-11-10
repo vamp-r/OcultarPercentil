@@ -12,7 +12,7 @@ Se puede cargar en cualquier navegador basado en Chromium y en Opera.
 ### Firefox
 Para usarlo en Firefox solo hace falta cambiar el manifest.json por el manifest_firefox.json, renombrándolo igual que el primero.
 
-Funciona en Firefox Android.
+Funciona en Firefox Android. Es dificil de instalar porque no ha podido ser publicado en la página oficial de Firefox aunque sí está firmado (corrobora que no es un virus). Para instalarlo hay que usar comandos adb.
 ### Safari
 Técnicamente se puede usar en Safari. Debido al alto precio de la cuenta de desarollador (100$ al año) no la voy a subir. Puedes intentar usarlo si tienes un Mac, activas las funciones de desarrollador y cargas la extensión (no testeado).
 ## Apóyame
