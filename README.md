@@ -4,7 +4,7 @@ Sirve para ocultar el percentil de la academia CTO MIR.
 ## Descargar las versiones estables (recomendado)
 - Edge: 	https://microsoftedge.microsoft.com/addons/detail/oogigbfcdfooaibomghljcpeiaphdedl
 - Chrome: https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb?hl=es&authuser=0
-- Firefox:
+- Firefox: http://vamp-r.epizy.com/OcultarPercentil/v1.2.2/ocultar_percentil-1.2.2-an+fx.xpi
 
 ## Uso de la versión fuera de las tiendas (no recomendado)
 ### Chromium y Opera
