@@ -17,4 +17,4 @@ Funciona en Firefox Android.
 Técnicamente se puede usar en Safari. Debido al alto precio de la cuenta de desarollador (100$ al año) no la voy a subir. Puedes intentar usarlo si tienes un Mac, activas las funciones de desarrollador y cargas la extensión (no testeado).
 ## Apóyame
 
-Paypal: https://www.paypal.com/donate?hosted_button_id=U8DS9QWZ387U8
+Paypal: https://www.paypal.com/donate?hosted_button_id=J5MRE2A4WFWE8
