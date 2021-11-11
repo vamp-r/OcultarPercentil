@@ -3,7 +3,7 @@
 <a title="Latest release" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/v/khogllnffiapoggdakpngdghfdknfoeb"></a>
 <a title="Latest release" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/stars/khogllnffiapoggdakpngdghfdknfoeb"></a>
 <a title="Pre release" href="https://github.com/vamp-r/OcultarPercentil/releases"><img src ="https://img.shields.io/github/release-pre/vamp-r/OcultarPercentil.svg?colorB=brightgreen"></a>
-<a title="License: ?" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img  src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"></a>
+<a title="License: Atribución-NoComercial-CompartirIgual 4.0 Internacional" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img  src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"></a>
 
 Sirve para ocultar el percentil de la academia CTO MIR. 
 
