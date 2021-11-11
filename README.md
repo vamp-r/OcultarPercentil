@@ -1,13 +1,15 @@
-![](https://img.shields.io/chrome-web-store/stars/khogllnffiapoggdakpngdghfdknfoeb)
-![](https://img.shields.io/chrome-web-store/v/khogllnffiapoggdakpngdghfdknfoeb)
+<a title="Latest release" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/stars/khogllnffiapoggdakpngdghfdknfoeb"></a>
+<a title="Latest release" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/v/khogllnffiapoggdakpngdghfdknfoeb"></a>
+<a title="Pre release" href="https://github.com/vamp-r/OcultarPercentil/releases"><img src ="https://img.shields.io/github/release-pre/vamp-r/OcultarPercentil.svg?colorB=brightgreen"></a>
 
 
 # OcultarPercentil
 Sirve para ocultar el percentil de la academia CTO MIR. 
 
 ## Descargar las versiones estables (recomendado)
-- Edge: 	https://microsoftedge.microsoft.com/addons/detail/oogigbfcdfooaibomghljcpeiaphdedl
+
 - Chrome y Opera: https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb?hl=es&authuser=0
+- Edge: 	https://microsoftedge.microsoft.com/addons/detail/oogigbfcdfooaibomghljcpeiaphdedl
 - Firefox (firmado por Firefox): http://vamp-r.epizy.com/OcultarPercentil/v1.2.2/ocultar_percentil-1.2.2-an+fx.xpi
 
 ## Uso de la versión fuera de las tiendas (no recomendado)
