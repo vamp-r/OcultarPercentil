@@ -1,3 +1,7 @@
+![](https://img.shields.io/chrome-web-store/stars/khogllnffiapoggdakpngdghfdknfoeb)
+![](https://img.shields.io/chrome-web-store/v/khogllnffiapoggdakpngdghfdknfoeb)
+
+
 # OcultarPercentil
 Sirve para ocultar el percentil de la academia CTO MIR. 
 
