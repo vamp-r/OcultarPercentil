@@ -1,4 +1,4 @@
-# OcultarPercentil
+# Ocultar Percentil
 
 <a title="Versión Chrome Store" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/v/khogllnffiapoggdakpngdghfdknfoeb"></a>
 <a title="Valoración en la Chrome Store" href="https://chrome.google.com/webstore/detail/ocultar-percentil/khogllnffiapoggdakpngdghfdknfoeb"><img src ="https://img.shields.io/chrome-web-store/stars/khogllnffiapoggdakpngdghfdknfoeb"></a>
