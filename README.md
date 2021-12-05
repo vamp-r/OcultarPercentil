@@ -23,10 +23,7 @@ Funciona en Firefox Android. Es dificil de instalar porque no ha podido ser publ
 ### Safari
 Técnicamente se puede usar en Safari. Debido al alto precio de la cuenta de desarollador (99$ al año) no la voy a subir. Puedes intentar usarlo si tienes un Mac, activas las funciones de desarrollador y cargas la extensión (no testeado).
 
-----
-## <a title="Invítame a un café (icono hecho por Freepic en flaticoon)" href="https://www.paypal.com/donate?hosted_button_id=U8DS9QWZ387U8"><img src ="https://pics.paypal.com/00/s/NTg2YzQwZTItOWNhZi00YzAzLThmMDgtYmIzNjM5ZDE3NjMz/file.PNG" width="20"></a>  Invítame a un café
 
-### - [Paypal](https://www.paypal.com/donate?hosted_button_id=U8DS9QWZ387U8)
  
  
 
